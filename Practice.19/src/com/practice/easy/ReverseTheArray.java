@@ -30,7 +30,6 @@ public class ReverseTheArray {
 			System.out.println(i);
 		}
 		
-		
 
 	}
 
